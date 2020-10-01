@@ -9,7 +9,7 @@ public class Main {
             if (beerNum == 1) {
                 word = "бутылка";
             }
-            System.out.println(beerNum + " " + word + "пива на стене");
+            System.out.println(beerNum + " " + word + " пива на стене");
             System.out.println(beerNum + " " + word + " " + "пива.");
             System.out.println("Возьми одну.");
             System.out.println("Пусти по кругу");
